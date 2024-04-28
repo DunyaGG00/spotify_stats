@@ -62,7 +62,7 @@ def albums_of_artist(token,artist_id):
 
 #artist_get = input("Artist Name \n") Getting artist name as input (remove "#")
 token = get_token()
-travis_dayim = "Travis Scott"
+#travis_dayim = "Travis Scott"
 
 result = search_for_artist(token,travis_dayim)
 
